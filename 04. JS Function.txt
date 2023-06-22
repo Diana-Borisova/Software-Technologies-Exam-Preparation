@@ -1,0 +1,10 @@
+1. Отварям js func от ресурсите
+2. DEV Tool в Chrome --> Inspect --> Console -->
+Paste js func-тя --> Enter
+3. solve(input) --> Enter
+4. Резултат: 5 5 5 5 1  
+
+Само резултата се качва в джъдж
+
+
+

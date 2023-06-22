@@ -1,0 +1,32 @@
+Онлайн опции за Linux на Windows:
+
+https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192 
+
+https://play-with-docker.com --> може да е претоварено
+
+apk --install wget
+wget https://api.zippopotam.us/us/90222 (не може да се копира, 
+                                        пише се на ръка)
+cksum 90222 
+
+680933789 219 90222 --> тези цифри качвам с judge
+
+
+1.	Environment Setup:
+
+Избирам коя от всички опции за достъп на линукс-терминала да ползвам:
+https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192 
+https://play-with-docker.com
+ubuntu (при мен не работи, затова някоя от горните)
+
+2.	Package Installation: 
+
+apk --install wget
+
+3.	File Download:
+
+wget https://api.zippopotam.us/us/90222
+
+4.	Processing Command:
+
+cksum 90222
