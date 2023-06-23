@@ -12,3 +12,21 @@ dir
 node C:\Users\BB\git-clone\exam-console-app.js
 3. Run the "exam-console-app.js" file 
 Резултатът е Total Area: 135.539816 (това качвам в джъдж)
+
+
+Exam Exercise:
+
+1.	Clone the Repo: 
+cd  
+git clone https://github.com/SUContent/Git-Clone.git
+
+2.	Run the application from the terminal: 
+2.1. navigate to the cloned repository directory using the terminal:
+dir  
+dir git-clone  
+2.2. Confirm that you are in the correct directory by listing all the files and folders :
+dir  
+2.3. Locate the file named "exercise-exam-func.js" 
+node C:\Users\BB\git-clone\exercise-exam-func.js
+3. Run the "exercise-exam-func.js" file 
+Резултатът е: The distance between point1 and point2 is: 5 (това качвам в джъдж)

@@ -4,14 +4,6 @@ https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
 
 https://play-with-docker.com --> може да е претоварено
 
-apk --install wget
-wget https://api.zippopotam.us/us/90222 (не може да се копира, 
-                                        пише се на ръка)
-cksum 90222 
-
-680933789 219 90222 --> тези цифри качвам с judge
-
-
 1.	Environment Setup:
 
 Избирам коя от всички опции за достъп на линукс-терминала да ползвам:
@@ -30,3 +22,19 @@ wget https://api.zippopotam.us/us/90222
 4.	Processing Command:
 
 cksum 90222
+
+Exam Preparation:
+apk --install wget
+wget https://api.zippopotam.us/us/90222 (не може да се копира, 
+                                        пише се на ръка)
+cksum 90222 
+
+680933789 219 90222 --> тези цифри качвам с judge
+
+Exam Exercise
+apk --install wget
+wget https://api.zippopotam.us/us/90202 (не може да се копира, 
+                                        пише се на ръка)
+cksum 90202 
+
+3590438057 224 90202 --> тези цифри качвам с judge

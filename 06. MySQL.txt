@@ -1,0 +1,7 @@
+select distinct(town) from addresses
+where isCapital = true;
+
+---
+
+select * from addresses
+where isCapital = false;

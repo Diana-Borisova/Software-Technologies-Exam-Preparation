@@ -6,3 +6,10 @@ Domain Name: softuni.bg
 IP Adress: 217.174.159.34
 First Mail Server Hostname: mx.softuni.bg
 First Mail Server IP Adress: 217.174.159.10
+
+---
+
+Domain Name: comnet.bg
+IP Address: 84.54.129.36
+First Mail Server Hostname: mail.comnet.bg
+First Mail Server IP Address: 84.54.128.8

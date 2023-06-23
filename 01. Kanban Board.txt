@@ -3,6 +3,15 @@ SVG flag link: https://flagcdn.com/de.svg
 The currency symbol: €
 Population: 83240525
 
+---
+
+Czech translation: Francouzská republika
+German translation: Französische Republik
+Italian translation: Repubblica francese
+Polish translation: Republika Francuska
+Russian translation: Французская Республика
+Swedish translation: Republiken Frankrike
+
 1. Ctrl + F търся по ключова дума
 2. Не слагам кавички
 3. След : САМО един интервал
